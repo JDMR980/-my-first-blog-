@@ -1,0 +1,12 @@
+C:\Users\Josem>cd documentos
+El sistema no puede encontrar la ruta especificada.
+
+C:\Users\Josem>cd Documents
+
+C:\Users\Josem\Documents>mkdir djangogirls
+
+C:\Users\Josem\Documents>cd djangogirls
+
+C:\Users\Josem\Documents\djangogirls>python -m venv myvenv
+
+C:\Users\Josem\Documents\djangogirls> myvenv\Scripts\activate
